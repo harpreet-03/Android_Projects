@@ -141,12 +141,12 @@ fun TipPreview() {
 
 ```
 
-##Dependencies
+## Dependencies
 - Jetpack Compose: To build UI components declaratively.
 - Material Design 3: For modern UI elements and themes.
 - Kotlin: Primary language used in the app development.
 
-##Future Enhancements
+## Future Enhancements
 - Improving UI
 - Add localization support for different currencies.
 - Include a dark mode option for the user interface.
