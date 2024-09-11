@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Tip Time</string>
+    <string name="Cal_tip"><b>Calculate Tip</b></string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_Am">"Tip Amount: %s"</string>
+
+
+</resources>
